@@ -21,7 +21,7 @@ This is a theme for EST Sidi Bennour WordPress created by a group of EST SB stud
 - After finishing the installation, press "Activate"
  
  - Finally, Install the "NicePage" plugin
- - 
+ 
 ![alt text](https://github.com/AmineElkhalidy/ESTSB/blob/main/cap4.png)
 
 
