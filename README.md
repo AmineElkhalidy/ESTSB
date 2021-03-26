@@ -26,3 +26,13 @@ This is a theme for EST Sidi Bennour WordPress created by a group of EST SB stud
 
 
 ### And there you go, the theme installation is complete!
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+- Anas Samoudi - unlimiteddez@gmail.com
+- Amina Moula - aminamoula@gmail.com
+- Amine Elkhalidy - amineelkhalidy.a@gmail.com
