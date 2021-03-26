@@ -27,7 +27,7 @@ This is a theme for EST Sidi Bennour WordPress created by a group of EST SB stud
 
 ### And there you go, the theme installation is complete!
 
-## Note 
+## Notice 
 You can access to our website directly by entering in the address bar using the following URL : estsb.ml 
 
 ## License
